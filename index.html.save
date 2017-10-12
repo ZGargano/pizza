@@ -24,17 +24,11 @@
 <b>Toppings</b>
 <form>
 <input type="checkbox" name="food" value="Pepperoni">Pepperoni</input>
-<img src="http://media.istockphoto.com/photos/heap-of-pepperoni-picture-id169943249?k=6&m=169943249&s=612x612&w=0&h=uHY_zqmS3c4BYPaQZPr4cUlEgb4rcDdKa2Kra13Uxxg="/>
 <input type="checkbox" name="food" value="Banana Peppers">Banana Peppers</input>
-<img src="https://www.pepperscale.com/wp-content/uploads/2016/01/Pickled-Banana-Peppers-e1456689069665.jpeg"/>
 <input type="checkbox" name="food" value="Sausage">Sausage</input>
-<img src="http://www.marxfoods.com/images/buffalo-sausage-chipotle-chiles_BisonSausage-1.jpg"/>
 <input type="checkbox" name="food" value="Extra Cheese">Extra Cheese</input> 
-<img src="http://www.eatwisconsincheese.com/images/cheese/Emmentaler-w.jpg"/>
 <input type="checkbox" name="food" value="Bacon">Bacon</input>
-<img src="http://www.seriouseats.com/images/2016/10/20161018-best-way-to-bake-bacon-18.jpg"/>
 <input type="checkbox" name="food" value="Mushrooms">Mushrooms</input>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Champignons_Agaricus.jpg"/>
 </form>
 <input type="submit" value="Submit"></input>
 </center>
